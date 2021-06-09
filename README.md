@@ -1,4 +1,6 @@
-### Hi there 👋
+### Stats are cpp; 👋
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtheos&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=40bb20&icon_color=40bb20&text_color=40bb20&bg_color=000000" alt="Github Stats">
 
 <!--
 **mtheos/mtheos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
